@@ -7,7 +7,7 @@ Welcome to my Projects Portfolio! This repository is a collection of various Pyt
 | Project | Description | Technologies |
 |--------|-------------|--------------|
 | [Web Scraper](./web-scraper) | A Python script to scrape product data from e-commerce websites. | `requests`, `BeautifulSoup` |
-| [To-Do CLI App](./todo-cli) | A command-line To-Do app with persistent storage using JSON. | `argparse`, `json` |
+| [Banking Analysis](./banking-analysis) | A command-line To-Do app with persistent storage using JSON. | `decision tree`, `logistic regression` , `random forest`|
 | [Weather Dashboard](./weather-dashboard) | A Tkinter-based GUI to display current weather using OpenWeatherMap API. | `Tkinter`, `requests`, `API` |
 | [Flask Blog](./flask-blog) | A simple blog platform built with Flask and SQLite. | `Flask`, `SQLite`, `Jinja2` |
 | [Data Visualizer](./data-visualizer) | Create graphs and charts from CSV files using Matplotlib. | `pandas`, `matplotlib` |
