@@ -1,15 +1,16 @@
-## Greetings | 你好 (Nǐ hǎo) | こんにちは (Konnichiwa)👋
+## Hello | 你好 | こんにちは 👋
 
 Welcome to my Projects Portfolio! This repository is a collection of various Python-based projects I've built to learn, experiment, and solve real-world problems. Each folder in this repository contains a separate project with its own README and source code.
+
+I am data lover & STEM MBA Graduate with 10+ years of international (JP/USA) work experience in healthcare, e-commerce, and technology industries.
 
 ## 🚀 Featured Projects
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [Web Scraper](./web-scraper) | A Python script to scrape product data from e-commerce websites. | `requests`, `BeautifulSoup` |
 | [Banking Analysis](./banking-analysis.ipynb) | Enhancing Bank Marketing Strategies with data | `decision tree`, `logistic regression` , `random forest`|
-| [Weather Dashboard](./weather-dashboard) | A Tkinter-based GUI to display current weather using OpenWeatherMap API. | `Tkinter`, `requests`, `API` |
-| [Flask Blog](./flask-blog) | A simple blog platform built with Flask and SQLite. | `Flask`, `SQLite`, `Jinja2` |
+| [SAS](./sas) | coming soon. | `Tkinter`, `requests`, `API` |
+| [EDA py](./eda) | coming soon. | `Flask`, `SQLite`, `Jinja2` |
 | [Data Visualizer](./data-visualizer) | Create graphs and charts from CSV files using Matplotlib. | `pandas`, `matplotlib` |
 
 ## 🛠 Setup
