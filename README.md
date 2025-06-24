@@ -1,17 +1,30 @@
-## Hello | 你好 | こんにちは 👋
+# Hello | 你好 | こんにちは 👋
 
-Welcome to my Projects Portfolio! This repository is a collection of various Python-based projects I've built to learn, experiment, and solve real-world problems. Each folder in this repository contains a separate project with its own README and source code.
+Welcome to my Projects Portfolio!  
+This repository showcases a collection of Python-based projects I've built to learn, experiment, and solve real-world problems.  
+Each folder contains a standalone project with its own README and source code.
 
-I am data lover & STEM MBA Graduate with 10+ years of international (JP/USA) work experience in healthcare, e-commerce, and technology industries.
+---
+
+## 👤 About Me
+
+- 🌍 Based in the Bay Area | 🇯🇵 🇺🇸 International Experience  
+- 🎓 B.S. in Statistics, University of Washington  
+- 🎓 STEM MBA, UC Davis  
+- 💼 10+ years of work experience across healthcare, e-commerce, and tech  
+- 🧠 Passionate about data, analytics, and turning insights into impact  
+- 🔗 [LinkedIn](https://linkedin.com/in/ylimba)
+
 
 ## 🚀 Featured Projects
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [Banking Analysis](./banking-analysis.ipynb) | Enhancing Bank Marketing Strategies with data | `decision tree`, `logistic regression` , `random forest`|
-| [SAS](./sas) | coming soon. | `Tkinter`, `requests`, `API` |
-| [EDA py](./eda) | coming soon. | `Flask`, `SQLite`, `Jinja2` |
-| [Data Visualizer](./data-visualizer) | Create graphs and charts from CSV files using Matplotlib. | `pandas`, `matplotlib` |
+| [Banking Analysis](./banking-analysis.ipynb) | Enhancing Bank Marketing Strategies with data | `python`,`decision tree`, `logistic regression` , `random forest`|
+| [Automating report with SAS/SQL](./sas) | coming soon. | `SAS`, `SQL`, `automation` |
+| [EDA ML with python](./eda) | coming soon. | `python`, `xgboost`, `eda` |
+| [Data visualizer](./data-visualizer) | Create graphs and charts from CSV files using Matplotlib. | `r studio`, `shiny`, `leaflet` |
+| [Shiny dashboard](./shiny1) | b. | `r studio`, `shiny`, `leaflet` |
 
 ## 🛠 Setup
 
