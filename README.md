@@ -21,30 +21,23 @@ Each folder contains a standalone project with its own README and source code.
 | Project | Description | Technologies |
 |--------|-------------|--------------|
 | [Banking Analysis](./banking-analysis.ipynb) | Enhancing Bank Marketing Strategies with data | `python`,`decision tree`, `logistic regression` , `random forest`|
-| [EDA & ML with python](./rx_ml) | coming soon. | `python`, `xgboost`, `eda` |
-| [Choropleth with Shiny](./pop_chroro) | Interactive choropleth map of populations  | `r studio`, `shiny`, `leaflet` |
+| [EDA & ML with python](./rx_ml) | UNDER CONSTRUCTION, ML project | `python`, `xgboost`, `eda` |
+| [Choropleth with Shiny](./pop_chroro) | UNDER CONSTRUCTION, Interactive choropleth map of populations  | `r studio`, `shiny`, `leaflet` |
 
 ## 🛠 Setup
 
-To run any project, clone the repo and navigate to the project folder:
 
 ```bash
 git clone https://github.com/your-username/python-projects.git
 cd python-projects/project-name
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on creating an AI that can generate SQL from unstructured input. 
 
 <!--
 **ylds/ylds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Shiny.
+- ⚡ Fun fact: I also love to read, write and playing tennis.
 -->
