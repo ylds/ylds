@@ -21,10 +21,8 @@ Each folder contains a standalone project with its own README and source code.
 | Project | Description | Technologies |
 |--------|-------------|--------------|
 | [Banking Analysis](./banking-analysis.ipynb) | Enhancing Bank Marketing Strategies with data | `python`,`decision tree`, `logistic regression` , `random forest`|
-| [Automating report with SAS/SQL](./sas) | coming soon. | `SAS`, `SQL`, `automation` |
-| [EDA ML with python](./eda) | coming soon. | `python`, `xgboost`, `eda` |
-| [Data visualizer](./data-visualizer) | Create graphs and charts from CSV files using Matplotlib. | `r studio`, `shiny`, `leaflet` |
-| [Shiny dashboard](./shiny1) | b. | `r studio`, `shiny`, `leaflet` |
+| [EDA & ML with python](./rx_ml) | coming soon. | `python`, `xgboost`, `eda` |
+| [Choropleth with Shiny](./pop_chroro) | Interactive choropleth map of populations  | `r studio`, `shiny`, `leaflet` |
 
 ## 🛠 Setup
 
