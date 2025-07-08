@@ -9,19 +9,16 @@ Each folder contains a standalone project with its own README and source code.
 ## 👤 About Me
 
 - 🌍 Based in the Bay Area | 🇯🇵 🇺🇸 International Experience  
-- 🎓 B.S. in Statistics, University of Washington  
-- 🎓 STEM MBA, UC Davis  
+- 🎓 B.S. in Statistics, STEM MBA 
 - 💼 10+ years of work experience across healthcare, e-commerce, and tech  
 - 🧠 Passionate about data, analytics, and turning insights into impact  
-- 🔗 [LinkedIn](https://linkedin.com/in/ylimba)
-
 
 ## 🚀 Featured Projects
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [Banking Analysis](./banking-analysis.ipynb) | Enhancing Bank Marketing Strategies with data | `python`,`decision tree`, `logistic regression` , `random forest`|
-| [EDA & ML with python](./rx_ml) | UNDER CONSTRUCTION, ML project | `python`, `xgboost`, `eda` |
+| [Banking Analysis](./banking-analysis.ipynb) | Enhancing bank marketing strategies with data, exploring various ml models | `python`,`decision tree`, `logistic regression` , `random forest`|
+| [Calories Predction with XGBRegressor](./xgb_calories) | Predicting calorie expenditure using gradient boosting with feature engineering and model tuning | `python`, `xgboost`, `eda` |
 | [Choropleth with Shiny](./pop_chroro) | UNDER CONSTRUCTION, Interactive choropleth map of populations  | `r studio`, `shiny`, `leaflet` |
 
 ## 🛠 Setup
