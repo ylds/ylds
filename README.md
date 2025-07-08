@@ -18,7 +18,7 @@ Each folder contains a standalone project with its own README and source code.
 | Project | Description | Technologies |
 |--------|-------------|--------------|
 | [Banking Analysis](./banking-analysis.ipynb) | Enhancing bank marketing strategies with data, exploring various ml models | `python`,`decision tree`, `logistic regression` , `random forest`|
-| [Calories Predction with XGBRegressor](./ylds/xgb_calories) | Predicting calorie expenditure using gradient boosting with feature engineering and model tuning | `python`, `xgboost`, `eda` |
+| [Calories Predction with XGBRegressor](./calorie_prediction_xgb.ipynb) | Predicting calorie expenditure using gradient boosting with feature engineering and model tuning | `python`, `xgboost`, `eda` |
 | [Choropleth with Shiny](./pop_chroro) | UNDER CONSTRUCTION, Interactive choropleth map of populations  | `r studio`, `shiny`, `leaflet` |
 
 ## 🛠 Setup
