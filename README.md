@@ -5,6 +5,12 @@ Each folder contains standalone work, complete with code and comments.
 
 ---
 
+## 📖 How to Use This Portfolio
+Click on the project links below or scroll to the "🚀 Featured Projects" section to explore each project’s repository with its README and source code.
+📁 Each project is organized in its own folder containing:
+1. A README file with detailed descriptions and explanations
+2. The source code used for analysis or development
+
 ## 👤 About Me
 
 - 🌍 Based in the Bay Area | 🇯🇵 🇺🇸 International Experience  
@@ -20,10 +26,6 @@ Techniques: Machine Learning, Time Series Forecasting, EDA, Visualization, Repor
 AI & LLMs: Prompt Engineering, Generative AI (OpenAI API), Natural Language → SQL
 Domains: Healthcare Analytics, Financial Modeling, Marketing Strategy
 
-## 👋 How to Use This Portfolio
-Each project is organized into its own folder, containing both the README file with detailed descriptions and the source code used for analysis or development.
-Click on the project link below go the the project repository with README and the source code.
-Each project README contains summary of the project to help you understand the workflow and tools used.
 
 ## 🚀 Featured Projects
 
@@ -37,5 +39,4 @@ Each project README contains summary of the project to help you understand the w
 ## 🔭 Currently Exploring
 Building an AI-powered tool that generates SQL queries from natural language, using prompt engineering and LLMs.
 Exploring real-world healthcare and finance datasets through predictive modeling.
-
 🎾 Fun Fact: When I'm not coding, I enjoy reading, writing, and playing tennis.
