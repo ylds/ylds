@@ -1,40 +1,77 @@
 # Hello | 你好 | こんにちは 👋
 
-Welcome to my Projects Portfolio!  
-This repository showcases a collection of Python-based projects I've built to learn, experiment, and solve real-world problems.  
-Each folder contains a standalone project with its own README and source code.
+Welcome to my Projects Portfolio — a curated collection of data-driven and AI-powered projects where I explore, build, and solve real-world problems.
+Each folder contains standalone work, complete with code and comments.
 
 ---
 
 ## 👤 About Me
 
 - 🌍 Based in the Bay Area | 🇯🇵 🇺🇸 International Experience  
-- 🎓 B.S. in Statistics, STEM MBA 
+- 🎓 B.S. Statistics, STEM MBA 
 - 💼 10+ years of work experience across healthcare, e-commerce, and tech  
 - 🧠 Passionate about data, analytics, and turning insights into impact  
+
+## 💡 Skills Snapshot
+
+Languages & Tools: Python, R, SQL, Excel, Jupyter, Shiny
+Libraries & Tech: XGBoost, scikit-learn, Prophet, pandas, seaborn, Leaflet
+Techniques: Machine Learning, Time Series Forecasting, EDA, Visualization, Reporting
+AI & LLMs: Prompt Engineering, Generative AI (OpenAI API), Natural Language → SQL
+Domains: Healthcare Analytics, Financial Modeling, Marketing Strategy
 
 ## 🚀 Featured Projects
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [Banking Analysis](./banking-analysis.ipynb) | Enhancing bank marketing strategies with data, exploring various ml models | `python`,`decision tree`, `logistic regression` , `random forest`|
-| [Calories Predction with XGBRegressor](./calorie_prediction_xgb.ipynb) | Predicting calorie expenditure using gradient boosting with feature engineering and model tuning | `python`, `xgboost`, `eda` |
-| [Choropleth with Shiny]() | UNDER CONSTRUCTION, Interactive choropleth map of populations  | `r studio`, `shiny`, `leaflet` |
+| [Banking Analysis](./banking-analysis.ipynb) | Real-World Scenario
+A Portuguese bank conducted a direct marketing campaign to promote term deposit subscriptions. Clients were contacted via phone, and their responses—along with demographic and historical data—were recorded for analysis.
 
-## 🛠 Setup
+📁 Dataset Highlights
 
+Total contacts: 45,211 clients
 
-```bash
-git clone https://github.com/your-username/python-projects.git
-cd python-projects/project-name
+Subscribed ('yes'): 5,289 (~11.7%)
 
-- 🔭 I’m currently working on creating an AI that can generate SQL from unstructured input. 
+Did not subscribe ('no'): 39,922 (~88.3%)
 
-<!--
-**ylds/ylds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Target variable: y (binary: yes/no)
 
-Here are some ideas to get you started:
+🎯 Objective
+Improve the effectiveness of future campaigns by identifying which types of clients are more likely to subscribe—helping reduce unnecessary outreach and increase ROI.
 
-- 🌱 I’m currently learning Shiny.
-- ⚡ Fun fact: I also love to read, write and playing tennis.
--->
+🔍 Approach
+
+Exploratory Data Analysis (EDA)
+Explored key variables such as age, job type, marital status, education, and previous campaign outcomes to identify trends among subscribers.
+
+Predictive Modeling
+Built machine learning models including:
+
+Logistic Regression
+
+Decision Tree
+
+Random Forest
+Models were evaluated for accuracy, precision, and recall to identify the most effective approach.
+
+🧠 Key Skills Demonstrated
+
+Feature Engineering & Data Cleaning
+
+Handling Imbalanced Classes
+
+Interpreting Model Outputs (Feature Importance, Confusion Matrix)
+
+Business Recommendations Based on Data Insights
+
+ | `python`,`decision tree`, `logistic regression` , `random forest`|
+| [Calories Predction](./calorie_prediction_xgb.ipynb) | Predicting calorie expenditure using gradient boosting with feature engineering and model tuning | `python`, `xgboost`, `eda`,`model tuning` |
+| [Choropleth with Shiny]() | UNDER CONSTRUCTION, Interactive choropleth map of populations  | `r studio`, `shiny`, `leaflet`,`data mapping` |
+| [Financial Forecast]() | (Under Construction) Uses Meta's Prophet library to forecast future healthcare expense trends using claims data. Incorporates holiday effects, outlier smoothing, and changepoint tuning to stabilize volatile periods like large claims.  | `python`, `prophet`, `time-series` |
+
+## 🔭 Currently Exploring
+Building an AI-powered tool that generates SQL queries from natural language, using prompt engineering and LLMs.
+Exploring real-world healthcare and finance datasets through predictive modeling.
+
+🎾 Fun Fact: When I'm not coding, I enjoy reading, writing, and playing tennis.
