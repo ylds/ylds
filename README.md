@@ -27,7 +27,7 @@ Domains: Healthcare Analytics, Financial Modeling, Marketing Strategy
 | [Financial Forecast]() | Uses Meta's Prophet library to forecast future healthcare expense trends using claims data. Incorporates holiday effects, outlier smoothing, and changepoint tuning to stabilize volatile periods like large claims.  | `python`, `prophet`, `time-series` |
 | [Banking Analysis](https://github.com/ylds/banking-analysis) | A bank conducted a direct marketing campaign to promote term deposit subscriptions. Clients were contacted via phone, and their responses—along with demographic and historical data—were recorded for analysis. | `python`,`decision tree`, `logistic regression` , `random forest`|
 | [Calories Predction](https://github.com/ylds/xgb_calories) | Predicting calorie expenditure using gradient boosting with feature engineering and model tuning | `python`, `xgboost`, `eda`,`model tuning` |
-| [Choropleth with Shiny](https://github.com/ylds/ev_participation) | UNDER CONSTRUCTION, Interactive choropleth map of populations  | `r studio`, `shiny`, `leaflet`,`data mapping` |
+| [Choropleth with Shiny](https://github.com/ylds/ev_participation) | interactive dashboard built with R Shiny to visualize and explore Electric Vehicle (EV) participation trends across regions  | `r studio`, `shiny`, `leaflet`,`data mapping` |
 
 ## 🔭 Currently Exploring
 Building an AI-powered tool that generates SQL queries from natural language, using prompt engineering and LLMs.
