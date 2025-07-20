@@ -14,9 +14,13 @@ Click on the project links below or scroll to the "🚀 Featured Projects" secti
 ## 👤 About Me
 
 🌉 Based in the Northern CA | 🇨🇳 🇯🇵 🇺🇸 International Experience
+
 🎓 B.S. in Statistics | STEM MBA
+
 💼 10+ years of experience across healthcare, e-commerce, and tech
+
 📊 Passionate about data, analytics, and transforming insights into action
+
 ## 💡 Skills Snapshot
 
 Languages & Tools: Python, R, SQL, Excel, Jupyter, Shiny
