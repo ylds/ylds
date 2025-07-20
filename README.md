@@ -13,17 +13,20 @@ Click on the project links below or scroll to the "🚀 Featured Projects" secti
 
 ## 👤 About Me
 
-- 🌍 Based in the Bay Area | 🇯🇵 🇺🇸 International Experience  
-- 🎓 B.S. Statistics, STEM MBA 
-- 💼 10+ years of work experience across healthcare, e-commerce, and tech  
-- 🧠 Passionate about data, analytics, and turning insights into impact  
-
+🌉 Based in the Bay Area | 🇨🇳 🇯🇵 🇺🇸 International Experience
+🎓 B.S. in Statistics | STEM MBA
+💼 10+ years of experience across healthcare, e-commerce, and tech
+📊 Passionate about data, analytics, and transforming insights into action
 ## 💡 Skills Snapshot
 
 Languages & Tools: Python, R, SQL, Excel, Jupyter, Shiny
-Libraries & Tech: XGBoost, scikit-learn, Prophet, pandas, seaborn, Leaflet
+
+Libraries & Tech: XGBoost, scikit-learn, Prophet, pandas, seaborn, Leaflet, Prophet
+
 Techniques: Machine Learning, Time Series Forecasting, EDA, Visualization, Reporting
+
 AI & LLMs: Prompt Engineering, Generative AI (OpenAI API), Natural Language → SQL
+
 Domains: Healthcare Analytics, Financial Modeling, Marketing Strategy
 
 
@@ -31,8 +34,8 @@ Domains: Healthcare Analytics, Financial Modeling, Marketing Strategy
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [Financial Forecast]() | Uses Meta's Prophet library to forecast future healthcare expense trends using claims data. Incorporates holiday effects, outlier smoothing, and changepoint tuning to stabilize volatile periods like large claims.  | `python`, `prophet`, `time-series` |
-| [Bank Marketing analysis](https://github.com/ylds/banking-analysis) | A bank conducted a direct marketing campaign to promote term deposit subscriptions. Clients were contacted via phone, and their responses—along with demographic and historical data—were recorded for analysis. | `python`,`decision tree`, `logistic regression` , `random forest`|
+| [Revenue Forecast](https://github.com/ylds/financial_forecast) | Uses Meta's Prophet library to forecast future revenue. Incorporates holiday and seasonality effect  | `python`, `prophet`, `time-series` |
+| [Bank Marketing analysis](https://github.com/ylds/banking-analysis) Analyzed the bank’s direct marketing campaign to predict term deposit subscriptions using various ML models | `python`,`decision tree`, `logistic regression` , `random forest`|
 | [Calories Predction](https://github.com/ylds/xgb_calories) | Predicting calorie expenditure using gradient boosting with feature engineering and model tuning | `python`, `xgboost`, `eda`,`model tuning` |
 | [Choropleth with Shiny](https://github.com/ylds/ev_participation) | interactive dashboard built with R Shiny to visualize and explore Electric Vehicle (EV) participation trends across regions, WIP-README only  | `r studio`, `shiny`, `leaflet`,`data mapping` |
 
