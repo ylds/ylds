@@ -35,7 +35,7 @@ Domains: Healthcare Analytics, Financial Modeling, Marketing Strategy
 | Project | Description | Technologies |
 |--------|-------------|--------------|
 | [Revenue Forecast](https://github.com/ylds/financial_forecast) | Uses Meta's Prophet library to forecast future revenue. Incorporates holiday and seasonality effect  | `python`, `prophet`, `time-series` |
-| [Bank Marketing analysis](https://github.com/ylds/banking-analysis) Analyzed the bank’s direct marketing campaign to predict term deposit subscriptions using various ML models | `python`,`decision tree`, `logistic regression` , `random forest`|
+| [Bank Marketing analysis](https://github.com/ylds/banking-analysis) | Analyzed the bank’s direct marketing campaign to predict term deposit subscriptions using various ML models | `python`,`decision tree`, `logistic regression` , `random forest`|
 | [Calories Predction](https://github.com/ylds/xgb_calories) | Predicting calorie expenditure using gradient boosting with feature engineering and model tuning | `python`, `xgboost`, `eda`,`model tuning` |
 | [Choropleth with Shiny](https://github.com/ylds/ev_participation) | interactive dashboard built with R Shiny to visualize and explore Electric Vehicle (EV) participation trends across regions, WIP-README only  | `r studio`, `shiny`, `leaflet`,`data mapping` |
 
